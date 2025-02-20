@@ -1,2 +1,1 @@
-alert ("Hui")
-// import "./"
+import "./javascript-homeworks/homework-2.1/alert.js"
