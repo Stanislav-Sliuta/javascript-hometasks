@@ -31,3 +31,8 @@
 // import "./javascript-homeworks/while-for-2.13/task-7.js"
 // import "./javascript-homeworks/switch-2.14/task-1.js"
 // import "./javascript-homeworks/switch-2.14/task-2.js"
+// import "./javascript-homeworks/function/task-1.js"
+// import "./javascript-homeworks/function/task-2.js"
+// import "./javascript-homeworks/function/task-3.js"
+// import "./javascript-homeworks/function/task-4.js"
+// import "./javascript-homeworks/arrow-functions-2.17/task-1.js"
