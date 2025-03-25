@@ -41,4 +41,7 @@
 // import "./javascript-homeworks/object/task-2.js"
 // import "./javascript-homeworks/object/task-3.js"
 // import "./javascript-homeworks/object/task-4.js"
-import "./javascript-homeworks/object/task-5.js"
+// import "./javascript-homeworks/object/task-5.js"
+// import "./javascript-homeworks/this/task-1.js"
+// import "./javascript-homeworks/this/task-2.js"
+// import "./javascript-homeworks/this/task-3.js"
